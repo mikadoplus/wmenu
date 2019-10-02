@@ -1,17 +1,17 @@
 {
-    "name": "garcia/wmenu",
+    "name": "mikadoplus/wmenu",
     "description": "",
-        "keywords": ["menu", "wordpress menu", "wordpress", "laravel", "cms","wmenu"],
+        "keywords": ["menu", "wordpress menu", "wordpress", "laravel", "cms", "wmenu"],
 
     "authors": [
         {
-            "name": "Cristian Garcia",
-            "email": "informacion@cristiangarcia.co"
+            "name": "Loureiro Patrick",
+            "email": "plo@mikadoplus.lu"
         }
     ],
     "require": {
-        "php": ">=5.4.0",
-        "illuminate/support": "4.2.*"
+        "php": "^7.2",
+        "illuminate/support": ">=6.*"
     },
     "autoload": {
         "classmap": [
